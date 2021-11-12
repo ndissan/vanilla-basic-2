@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/{*all}",
+            "redirect": "https://www.gs1au.org/nlr",
+            "statusCode": 302
+        }
+    ]
+}
